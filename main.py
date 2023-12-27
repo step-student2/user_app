@@ -1,5 +1,5 @@
 import tkinter as tk
-from DatabaseProxy import *
+from database_proxy import *
 
 
 class UserDatabaseApp:
